@@ -1,6 +1,6 @@
 # Web-Scraping
 ### Using Node.js
-Simple application to scrape any website to get details from the website. It is entirely made to learning purpose. This application is developed using Node.js.
+Simple application to scrape any website to get details from the website. It is entirely made to learning purpose. This application is developed using Node.js. Using the appication, you can get particular data from an website and generate an .csv file with that data
 
 ## Prerequisite
 - Node v10+
